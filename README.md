@@ -25,6 +25,4 @@ This repository contains various Jupyter notebooks that are used for the methods
 
 To run the Jupyter notebooks, ensure you have downloaded and extracted the necessary data from [`data.zip`](data.zip). This file contains all the datasets required for the experiments detailed in the notebooks.
 
-## Getting Started
-
 Thank you for visiting this project!
