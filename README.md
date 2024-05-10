@@ -11,7 +11,7 @@ This repository contains various Jupyter notebooks that are used for the methods
 - **GANs for Time Series**: For generating time series using Generative Adversarial Networks, see [`GAN.ipynb`](GAN.ipynb).
 - **Variational Autoencoders (VAE)**: For generating time series using Variational Autoencoders, see [`VAE.ipynb`](VAE.ipynb).
 - **Gaussian Sampling (GS)**: For generating time series using Gaussian Sampling, see [`GS.ipynb`](GS.ipynb).
-- **Diffusion Models**: For generating time series using Diffusion models, see [`Diffusion.ipynb`](Diffusion.ipynb).
+- **Diffusion Models**: For generating time series using Diffusion models, see [`Diffusion.ipynb`](Diffusion.ipynb). ). This notebook utilizes the [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) implementation.
 
 ### Evaluation Metrics
 
