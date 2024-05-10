@@ -2,7 +2,7 @@
 
 # Time Series Generation Project
 
-This repository contains various Jupyter notebooks that are used for the methods used in the CS283 Project. Each method is illustrated in its own notebook.
+This repository contains various Jupyter notebooks that can be used to replicate my CS283 Project. Each method is illustrated in its own notebook.
 
 ## Notebooks
 
@@ -12,6 +12,8 @@ This repository contains various Jupyter notebooks that are used for the methods
 - **Variational Autoencoders (VAE)**: For generating time series using Variational Autoencoders, see [`VAE.ipynb`](VAE.ipynb).
 - **Gaussian Sampling (GS)**: For generating time series using Gaussian Sampling, see [`GS.ipynb`](GS.ipynb).
 - **Diffusion Models**: For generating time series using Diffusion models, see [`Diffusion.ipynb`](Diffusion.ipynb). ). This notebook utilizes the [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) implementation.
+
+All notebooks required for the project are contained in the [`code.zip`](code.zip) folder.
 
 ### Evaluation Metrics
 
