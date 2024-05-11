@@ -13,11 +13,9 @@ This repository contains various Jupyter notebooks that can be used to replicate
 - **Gaussian Sampling (GS)**: For generating time series using Gaussian Sampling, see [`GS.ipynb`](GS.ipynb).
 - **Diffusion Models**: For generating time series using Diffusion models, see [`Diffusion.ipynb`](Diffusion.ipynb). ). This notebook utilizes the [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) implementation.
 
-All notebooks required for the project are contained in the [`code.zip`](code.zip) folder.
-
 ### Evaluation Metrics
 
-- **Tested Metrics**: For the "Tested Metrics" section, see [`Metric.ipynb`](Metric.ipynb).
+- **Tested Metrics**: For the "Tested Metrics" section, see [`Metrics.ipynb`](Metrics.ipynb).
 
 ### Classifier Accuracy Tests
 
